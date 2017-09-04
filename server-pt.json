@@ -328,7 +328,7 @@
   "Loaded strategies": "Estratégias carregadas",
   "Validation": "Validação",
   "Use all data validation": "Utilizar todos dados para validação",
-  "All data validation is useful when the other tools use OOS.": "Todos os dados para validação é útil quando outras ferramentas utilizam OOS.",
+  "All data validation is useful when the other tools use OOS.": "Utilizar todos os dados para validação é útil apenas quando outras ferramentas utilizam OOS.",
   "Use Monte Carlo validation": "Utilizar validação para Monte Carlo",
   "This tool uses settings from": "Esta ferramenta usa configurações de",
   "Validated tests": "Testes Validados",
